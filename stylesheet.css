@@ -1,0 +1,51 @@
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:  rgb(218, 125, 3);
+  }
+  
+.nav {
+    float: left;
+  }
+  
+  li a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 36px;
+    text-decoration: none
+  }
+  
+  li a:hover {
+    background-color: #111;
+    color: white;
+  }
+  #doghead {
+      text-align: center;
+      
+  }
+  .carousel .carousel-item{
+      height: 500px;
+
+  }
+
+  .scroll{
+    overflow: scroll;
+    width: 70%;
+    height: 3in;
+    margin: auto;
+  }
+
+#map_button{
+    display: block;
+    text-align: center;
+}
+#map{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
